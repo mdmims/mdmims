@@ -1,7 +1,7 @@
 # 👋 Welcome! <br>
 
 ## Contact/Social
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/michael-mims-64765662)
+<a href="https://www.linkedin.com/in/michael-mims-64765662"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <a href="mailto:mdmims.tech@gmail.com-">
 <img alt="eMail" src="https://img.shields.io/badge/mdmims.tech@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
