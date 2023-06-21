@@ -7,6 +7,7 @@
 </a>
 
 ## Sample personal projects
+- [github-repository-search](https://github.com/mdmims/github-repository-search) (React+TypeScript) - Web Application for searching GitHub Users and respective User repositories
 - [pyinit](https://github.com/mdmims/pyinit) (Go) - CLI application that autogenerates useful files with defaults for Python projects (.gitignore, .flake8, pyproject.toml, etc...)
 - [go-echo-crud](https://github.com/mdmims/go-echo-crud) (Go) - Example CRUD API (Echo) with TTL cache structured after domain driven development ideals
 
